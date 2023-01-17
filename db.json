@@ -1,6 +1,335 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    {
+      "id": 1,
+      "title": "Claro 3 Seater Sofa In Beige Color",
+      "price": 39281 ,
+      "category": "sofa",
+      "image": "https://ii2.pepperfry.com/media/catalog/product/c/l/494x544/claro-3-seater-sofa-in-beige-color-by-furnitech-claro-3-seater-sofa-in-beige-color-by-furnitech-sjy34z.jpg",
+      "rating": {
+      "rate": 3.9,
+      "count": 120
+      }
+      },
+      {
+        "id": 2,
+        "title": "Miranda 3 Seater Sofa In Navy Blue Colour",
+        "price": 43499 ,
+        "category": "sofa",
+        "image": "https://ii3.pepperfry.com/media/catalog/product/m/i/494x544/miranda-3-seater-sofa-in-navy-blue-colour-by-woodsworth-miranda-3-seater-sofa-in-navy-blue-colour-by-2vzyyg.jpg",
+        "rating": {
+        "rate": 4.9,
+        "count": 319
+        }
+        },
+        {
+          "id": 3,
+          "title": "Antalya 3 Seater Sofa In Grey Colour",
+          "price": 28308 ,
+          "category": "sofa",
+          "image": "https://ii1.pepperfry.com/media/catalog/product/a/n/494x544/antalya-3-seater-sofa-in-grey-colour-by-urban-living-antalya-3-seater-sofa-in-grey-colour-by-urban-l-f1o3vl.jpg",
+          "rating": {
+          "rate": 3.9,
+          "count": 155
+          }
+          },
+          {
+            "id": 4,
+            "title": "Daroo 3 Seater Sofa In Camel Beige Colour",
+            "price": 26705 ,
+            "category": "sofa",
+            "image": "https://ii2.pepperfry.com/media/catalog/product/d/a/494x544/daroo-3-seater-sofa-in-camel-beige-by-febonic-daroo-3-seater-sofa-in-camel-beige-by-febonic-o8dhfm.jpg",
+            "rating": {
+            "rate": 3.9,
+            "count": 75
+            }
+            },
+            {
+              "id": 5,
+              "title": "Bali 3 Seater Sofa In Blue Colour",
+              "price": 18384 ,
+              "category": "sofa",
+              "image": "https://ii2.pepperfry.com/media/catalog/product/b/a/494x544/bali-3-seater-sofa-in-blue-colour-by-trevi-furniture-bali-3-seater-sofa-in-blue-colour-by-trevi-furn-7fzag9.jpg",
+              "rating": {
+              "rate": 4.9,
+              "count": 507
+              }
+              },
+              {
+                "id": 6,
+                "title": "Brown Wooden Tripod Stand Analog Table Clock",
+                "price": 1849 ,
+                "category": "clock",
+                "image": "https://ii1.pepperfry.com/media/catalog/product/b/r/494x544/brown-wooden-tripod-stand-analog-table-clock-by-exim-decor-brown-wooden-tripod-stand-analog-table-cl-lhutcr.jpg",
+                "rating": {
+                "rate": 4.5,
+                "count": 13
+                }
+                },
+                {
+                  "id": 7,
+                  "title": "Metal Antique Clock In Golden Wall Art",
+                  "price": 699 ,
+                  "category": "clock",
+                  "image": "https://ii2.pepperfry.com/media/catalog/product/m/e/494x544/metal-antique-gold---copper-wall-art-by-malik-design-metal-antique-gold---copper-wall-art-by-malik-d-bkv5d8.jpg",
+                  "rating": {
+                  "rate": 4.2,
+                  "count": 120
+                  }
+                  },
+                  {
+                    "id": 8,
+                    "title": "Mango Wood Magazine Holder",
+                    "price": 3649 ,
+                    "category": "clock",
+                    "image": "https://ii2.pepperfry.com/media/catalog/product/m/a/494x544/mango-wood-magazine-holder-by-wooden-mood-mango-wood-magazine-holder-by-wooden-mood-kslxid.jpg",
+                    "rating": {
+                    "rate": 2.9,
+                    "count": 3
+                    }
+                    },
+                    {
+                      "id": 9,
+                      "title": "Plastic Black Antler Jewellery Stand",
+                      "price": 556,
+                      "category": "clock",
+                      "image": "https://ii3.pepperfry.com/media/catalog/product/p/l/494x544/plastic-black-antler-jewellery-stand-by-buckle-up-plastic-black-antler-jewellery-stand-by-buckle-up-rlhwnc.jpg",
+                      "rating": {
+                      "rate": 4.5,
+                      "count": 6
+                      }
+                      },
+                      {
+                        "id": 10,
+                        "title": "Metal Multicolour Hand Painted Boat Pen Stand",
+                        "price": 1449,
+                        "category": "clock",
+                        "image": "https://ii2.pepperfry.com/media/catalog/product/m/e/494x544/metal-multicolour-hand-painted-boat-pen-stand-by-padmavati-art-creations-metal-multicolour-hand-pain-xwyjmt.jpg",
+                        "rating": {
+                        "rate": 4.6,
+                        "count": 12
+                        }
+                        },
+                        {
+                          "id": 11,
+                          "title": "Voyager Portable Table in Brazilian Walnut Finish",
+                          "price": 5737 ,
+                          "category": "table",
+                          "image": "https://ii2.pepperfry.com/media/catalog/product/v/o/494x544/voyager-portable-table-in-brazilian-walnut-finish-by-hoffice-voyager-portable-table-in-brazilian-wal-l59yyj.jpg",
+                          "rating": {
+                          "rate": 4.1,
+                          "count": 1206
+                          }
+                          },
+                          {
+                            "id": 12,
+                            "title": "Clifford Solid Wood Nest Of Tables In Honey Oak Finish",
+                            "price": 15499,
+                            "category": "table",
+                            "image": "https://ii3.pepperfry.com/media/catalog/product/c/l/494x544/clifford-solid-wood-nest-of-tables-in-honey-oak-finish-by-amberville-clifford-solid-wood-nest-of-tab-gah0bq.jpg",
+                            "rating": {
+                            "rate": 3.9,
+                            "count": 65
+                            }
+                            },
+                            {
+                              "id": 13,
+                              "title": "SOS Bunny Portable Table in Slate Grey & Silver Finish",
+                              "price": 10462,
+                              "category": "table",
+                              "image": "https://ii1.pepperfry.com/media/catalog/product/s/o/494x544/sos-liteoffice-modern-portable-table-in-slate-grey---silver-finish-by-spacewood-sos-liteoffice-moder-nhkczl.jpg",
+                              "rating": {
+                              "rate": 3.5,
+                              "count": 288
+                              }
+                              },
+                              {
+                                "id": 14,
+                                "title": "Trendy Coffee Table with 4 Stools in Indigo Colour",
+                                "price": 18524,
+                                "category": "table",
+                                "image": "https://ii3.pepperfry.com/media/catalog/product/t/r/494x544/trendy-coffee-table-with-four-stools-in-indigo-colour-by-arra-trendy-coffee-table-with-four-stools-i-afxgzn.jpg",
+                                "rating": {
+                                "rate": 3.6,
+                                "count": 95
+                                }
+                                },
+                                {
+                                  "id": 15,
+                                  "title": "Metalico Nesting Table (Set Of 2) In Natural Finish",
+                                  "price": 10499,
+                                  "category": "table",
+                                  "image": "https://ii3.pepperfry.com/media/catalog/product/m/e/494x544/metalico-nesting-table--set-of-2--in-natural-finish-by-bohemiana-metalico-nesting-table--set-of-2--i-gycytk.jpg",
+                                  "rating": {
+                                  "rate": 3.8,
+                                  "count": 58
+                                  }
+                                  },
+                                  {
+                                    "id": 16,
+                                    "title": "Roll-Away Folding Space Saving Bed with Free 6 Inch Foam Mattress",
+                                    "price": 13859,
+                                    "category": "bed",
+                                    "image": "https://ii2.pepperfry.com/media/catalog/product/m/a/494x544/marbito-queen-size-bed-with-box---headboard-storage-in-white-colour-by--home-marbito-queen-size-bed--zw5cc2.jpg",
+                                    "rating": {
+                                    "rate": 3.0,
+                                    "count": 261
+                                    }
+                                    },
+                                    {
+                                      "id": 17,
+                                      "title": "Marbito King Size Bed With Box & Headboard Storage in White Colour",
+                                      "price": 18724,
+                                      "category": "bed",
+                                      "image": "https://ii2.pepperfry.com/media/catalog/product/s/h/494x544/shamon-king-size-bed-with-box-storage-in-walnut-finish-by-valuewud-shamon-king-size-bed-with-box-sto-rj2drw.jpg",
+                                      "rating": {
+                                      "rate": 3.1,
+                                      "count": 351
+                                      }
+                                      },
+                                      {
+                                        "id": 18,
+                                        "title": "Shinju Queen Size Upholstered Bed With Drawer Storage In Wenge Finish",
+                                        "price": 27999,
+                                        "category": "bed",
+                                        "image": "https://ii2.pepperfry.com/media/catalog/product/v/a/494x544/vayaka-solid-wood-king-size-poster-bed-in-provincial-teak-finish-by-mudramark-vayaka-solid-wood-king-dsicgm.jpg",
+                                        "rating": {
+                                        "rate": 4.6,
+                                        "count": 632
+                                        }
+                                        },
+                                        {
+                                          "id": 19,
+                                          "title": "Mozart Queen Size Bed with Box Storage in Walnut Finish",
+                                          "price": 15604,
+                                          "category": "bed",
+                                          "image": "https://ii1.pepperfry.com/media/catalog/product/t/s/494x544/tsukiko-queen-size-bed-with-drawer-storage-in-wenge-finish-by-mintwud-tsukiko-queen-size-bed-with-dr-8qywne.jpg",
+                                          "rating": {
+                                          "rate": 4.5,
+                                          "count": 26
+                                          }
+                                          },
+                                          {
+                                            "id": 20,
+                                            "title": "Torrie King Size Bed with Storage in Classic Walnut Finish",
+                                            "price": 19949,
+                                            "category": "bed",
+                                            "image": "https://ii2.pepperfry.com/media/catalog/product/t/o/494x544/torrie-king-bed-with-box-storage-in-classic-walnut-finish-by--home-torrie-king-bed-with-box-storage--dvb2wr.jpg",
+                                            "rating": {
+                                            "rate": 3.6,
+                                            "count": 109
+                                            }
+                                            },
+                                            {
+                                              "id": 21,
+                                              "title": "Ren 6 Door Wardrobe With Drawers In Wenge Finish",
+                                              "price": 22499,
+                                              "category": "wardrobe",
+                                              "image": "https://ii2.pepperfry.com/media/catalog/product/r/e/494x544/ren-6-door-wardrobe-with-external-drawers-in-wenge-finish-by-mintwud-ren-6-door-wardrobe-with-extern-wl5gz3.jpg",
+                                              "rating": {
+                                              "rate": 4.9,
+                                              "count": 1578
+                                              }
+                                              },
+                                              {
+                                                "id": 22,
+                                                "title": "Kosmo Apex 4 Door Wardrobe With Drawer & Mirror in Frosty White Colour",
+                                                "price": 45943,
+                                                "category": "wardrobe",
+                                                "image": "https://ii3.pepperfry.com/media/catalog/product/k/o/494x544/kosmo-apex-4-door-wardrobe-with-mirror-in-frosty-white-colour-by-spacewood-kosmo-apex-4-door-wardrob-af3xfr.jpg",
+                                                "rating": {
+                                                "rate": 4.4,
+                                                "count": 95
+                                                }
+                                                },
+                                                {
+                                                  "id": 23,
+                                                  "title": "Yubu Sliding 4 Door Wardrobe With Drawer & Mirror In Coffee Finish",
+                                                  "price": 25999,
+                                                  "category": "wardrobe",
+                                                  "image": "https://ii1.pepperfry.com/media/catalog/product/y/u/494x544/yubu-4-door-sliding-door-wardrobe-with-3-drawers-in-coffee-finish-by-mintwud-yubu-4-door-sliding-doo-lu1g5f.jpg",
+                                                  "rating": {
+                                                  "rate": 3.5,
+                                                  "count": 487
+                                                  }
+                                                  },
+                                                  {
+                                                    "id": 24,
+                                                    "title": "Mozart 4 Door Mirror Wardrobe in Walnut/White Finish",
+                                                    "price": 28023,
+                                                    "category": "wardrobe",
+                                                    "image": "https://ii1.pepperfry.com/media/catalog/product/m/o/494x544/mozart-4-door-mirror-wardrobe-in-walnut-white-finish-by-nilkamal-mozart-4-door-mirror-wardrobe-in-wa-s5gqpv.jpg",
+                                                    "rating": {
+                                                    "rate": 3.2,
+                                                    "count": 33
+                                                    }
+                                                    },
+                                                    {
+                                                      "id": 25,
+                                                      "title": "Kosmo Lauren 4 Door Wardrobe In Sheesham Woodpore Finish",
+                                                      "price": 43017,
+                                                      "category": "wardrobe",
+                                                      "image": "https://ii2.pepperfry.com/media/catalog/product/o/z/494x544/ozone-deluxe-3-door-wardrobe-with-mirror-in-milky-oak-finish-by-trevi-furniture-ozone-deluxe-3-door--narjuw.jpg",
+                                                      "rating": {
+                                                      "rate": 3.9,
+                                                      "count": 21802
+                                                      }
+                                                      },
+                                                      {
+                                                        "id": 26,
+                                                        "title": "Aesthetic Iconic Chair in Multicolour",
+                                                        "price": 7448,
+                                                        "category": "chair",
+                                                        "image": "https://ii2.pepperfry.com/media/catalog/product/a/e/494x544/aesthetic-iconic-chair-in-multicolour-by-pansy-furniture-aesthetic-iconic-chair-in-multicolour-by-pa-c89grf.jpg",
+                                                        "rating": {
+                                                        "rate": 5.0,
+                                                        "count": 2
+                                                        }
+                                                        },
+                                                        {
+                                                          "id": 27,
+                                                          "title": "Elegant Solid Wood Armchair In Honey Oak Finish",
+                                                          "price": 10999,
+                                                          "category": "chair",
+                                                          "image": "https://ii3.pepperfry.com/media/catalog/product/e/l/494x544/elegant-solid-wood-armchair-in-honey-oak-finish-by-woodsworth-elegant-solid-wood-armchair-in-honey-o-dmkctz.jpg",
+                                                          "rating": {
+                                                          "rate": 4.9,
+                                                          "count": 130
+                                                          }
+                                                          },
+                                                          {
+                                                            "id": 28,
+                                                            "title": "William Solid Wood Armchair In Provincial Teak Finish",
+                                                            "price": 17499,
+                                                            "category": "chair",
+                                                            "image": "https://ii1.pepperfry.com/media/catalog/product/w/i/494x544/william-solid-wood-armchair-in-provincial-teak-finish-by-amberville-william-solid-wood-armchair-in-p-8neir8.jpg",
+                                                            "rating": {
+                                                            "rate": 4.9,
+                                                            "count": 166
+                                                            }
+                                                            },
+                                                            {
+                                                              "id": 29,
+                                                              "title": "Harmony Solid Wood (Set Of 2) Folding Chair In Provincial Teak Finish",
+                                                              "price": 13499,
+                                                              "category": "chair",
+                                                              "image": "https://ii2.pepperfry.com/media/catalog/product/k/u/494x544/kumtor-iconic-chair-in-distress-white-colour-by-bohemiana-kumtor-iconic-chair-in-distress-white-colo-ngazwg.jpg",
+                                                              "rating": {
+                                                              "rate": 5.0,
+                                                              "count": 56
+                                                              }
+                                                              },
+                                                              {
+                                                                "id": 30,
+                                                                "title": "Tahiti Solid Wood Armchair in Grey Colour",
+                                                                "price": 7355,
+                                                                "category": "chair",
+                                                                "image": "https://ii1.pepperfry.com/media/catalog/product/t/a/494x544/tahiti-solid-wood-armchair-in-grey-colour-by--home-tahiti-solid-wood-armchair-in-grey-colour-by--hom-2xnrz3.jpg",
+                                                                "rating": {
+                                                                "rate": 3.9,
+                                                                "count": 120
+                                                                }
+                                                                }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
